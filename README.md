@@ -4,15 +4,9 @@
 
 ✔️  I’ve completed [RS2021Q3stage#0](https://app.rs.school/certificate/ft68fgkt)
 
-➕  I’ve completed **RS2021Q3stage#2** but only top-800 and didn't get a certificate
-
 🌱  I’m currently studying in **RS2022Q1stage#1**
 
- ![Codewars](https://www.codewars.com/users/abrasov/badges/small)
-
-
-
-
-  
-
-
+[![wakatime](https://wakatime.com/badge/user/6495f575-0eb9-4f78-a791-d9da26a8a672.svg)](https://wakatime.com/@6495f575-0eb9-4f78-a791-d9da26a8a672)
+![Codewars](https://www.codewars.com/users/abrasov/badges/micro)
+ 
+ 
